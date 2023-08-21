@@ -41,24 +41,24 @@ Here are some ideas to get you started:
 </p>
 <h2>Projects </h2>
 <ul>
-          <li>Jobgeek 
-                    clientside -html,tailwind css,js
-                    serveside -nodejs,ejs,express, mongodb:mongoose(nosql) 
+          <li>Jobgeek <br>
+                    clientside -html,tailwind css,js<br>
+                    serveside -nodejs,ejs,express, mongodb:mongoose(nosql) <br>
           </li>
-          <li>React js with DSA games
-                    -chess
-                    -snake and ladder
+          <li>React js with DSA games<br>
+                    -chess<br>
+                    -snake and ladder<br>
           </li>
-          <li>Project manager
-                    Topological sorting for sorting task order
+          <li>Project manager<br>
+                    Topological sorting for sorting task order<br>
           </li>
-          <li>Portfolio  website
-                    threejs,blender based project
-                    3d Modeling and animation
+          <li>Portfolio  website<br>
+                    threejs,blender based project<br>
+                    3d Modeling and animation<br>
           </li>
-          <li>Online verbal commmunication-TO IMPROVE COMMUNICATION
-                    AI based-emotion recognition AI
-                    speach recognization
-                    two person communication -statastical analyzing
+          <li>Online verbal commmunication-TO IMPROVE COMMUNICATION<br>
+                    AI based-emotion recognition AI<br>
+                    speach recognization<br>
+                    two person communication -statastical analyzing<br>
           </li>
 </ul>
