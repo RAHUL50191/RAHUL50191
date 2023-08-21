@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="45" height="45" />
           
 </p>
-<h2>Some projects </h2>
+<h2>Projects </h2>
 <ul>
           <li>Jobgeek 
                     clientside -html,tailwind css,js
