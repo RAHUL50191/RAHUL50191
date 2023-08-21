@@ -39,3 +39,21 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="45" height="45" />
           
 </p>
+<h2>Some projects </h2>
+<ul>
+          <li>Jobgeek 
+                    clientside -html,tailwind css,js
+                    serveside -nodejs,ejs,express, mongodb:mongoose(nosql) 
+          </li>
+          <li>React js with DSA games
+                    -chess
+                    -snake and ladder
+          </li>
+          <li>Project manager
+                    Topological sorting for sorting task order
+          </li>
+          <li>Portfolio  website
+                    threejs,blender based project
+                    3d Modeling and animation
+          </li>
+</ul>
