@@ -56,4 +56,9 @@ Here are some ideas to get you started:
                     threejs,blender based project
                     3d Modeling and animation
           </li>
+          <li>Online verbal commmunication-TO IMPROVE COMMUNICATION
+                    AI based-emotion recognition AI
+                    speach recognization
+                    two person communication -statastical analyzing
+          </li>
 </ul>
